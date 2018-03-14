@@ -1,0 +1,25 @@
+
+    }
+    .container {
+        width: 100%;
+        display:flex;
+
+    }
+    .box1   {
+        background: #1F4656;
+        height: 200px;
+        width: 100%;
+    }
+    .box2   {
+        background: #9CC7DF;
+        height: 200px;
+        width: 100%;
+    }
+
+    .box3   {
+        background: #F26419;
+        height: 200px;
+        width: 100%;
+        float: left;
+
+    }
